@@ -1,4 +1,5 @@
 ---
+title: 'slide-02'
 # try also 'default' to start simple
 theme: default
 # random image from a curated Unsplash collection by Anthony
