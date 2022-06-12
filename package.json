@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "scripts/build.py"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.33.0",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.22.2"
+  }
+}
